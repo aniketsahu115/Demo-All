@@ -1,2 +1,2 @@
 # Demo-All
-This Repository is for all types of works
+This Repository is for all types of works.
